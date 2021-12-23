@@ -1,0 +1,29 @@
+.headingAce {
+    text-align: center;
+    color: #2d1f4b;
+
+}
+.collum {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.circleMain {
+    margin-left: 70px;
+    margin-top: 150px;
+}
+.headingCircle {
+    margin-left: 20px;
+}
+.circle{
+    width: 10px;
+    margin-bottom: -50px;
+}
+.circleParah {
+    margin-top: 30px;
+}
+.teamImg {
+    width: 550px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}

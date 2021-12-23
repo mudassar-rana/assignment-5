@@ -1,0 +1,121 @@
+.main1 {
+    background-color: white;
+    overflow: hidden;
+}
+.headinghosting {
+    color: #221740;
+    margin-top: 100px;
+    text-align: center;
+}
+.spanheading {
+    color: #f3585b;
+}
+.paragraphhosting {
+    text-align: center;
+    color: #9696ac;
+}
+.back {
+    background-color:#ffffff;
+    /* background-color:aqua; */
+}
+.back:hover {
+    
+
+}
+.book {
+    width: 280px;
+    margin-left: 50px;
+    margin-top: 40px;
+
+}
+
+
+.headingbook {
+    text-align: center;
+    margin-left: 45px;
+    margin-top: 20px;
+    color: #f7a7a9;
+}
+
+.quickbook {
+ margin-left: 50px;
+ text-align: center;
+}
+.btnbook {
+    background-image: linear-gradient(to right, #f35951,#ef902b);
+    margin-left: 120px;
+    border-radius: 50px;
+    outline: none;
+    border :none;
+    padding: 5px 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+}
+.btnCloud {
+   margin-top: 40px;
+   outline: none;
+   border-radius: 5px;
+   padding: 10px 20px;
+   background-color: #ef962b;
+   color: white;
+   border: none;
+}
+.btnLicence {
+    margin-top: 40px;
+    outline: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+    background-color: #ef962b;
+    color: white;
+    border: none;
+    margin-left: 15px;
+ }
+ .arrowNo2 {
+     margin-left: 50px;
+     width: 50px;
+ }
+ .headingNo1 {
+     color: #2b1130;
+     margin-left: 80px;
+     margin-top: 20px;
+ }
+ .paragraphheading {
+     margin-left: 50px;
+     margin-top: 20px;
+     color: #b0b0bf;
+ }
+ .btnPlans {
+    background-image: linear-gradient(to right, #f35951,#ef902b);
+    margin-left: 55px;
+    border-radius: 50px;
+    outline: none;
+    border :none;
+    padding: 5px 25px;
+    margin-top: 50px;
+    color: white;
+
+ }
+.btnExpolre  {
+    border: 1px solid black;
+    color: black;
+    margin-left: 55px;
+    border-radius: 50px;
+    padding: 5px 20px;
+    margin-top: 50px;
+    font-weight: 100;
+
+
+}
+.paragraphAdd {
+    font-weight: 100;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.quickImg {
+    width: 250px;
+    margin-top:200px ;
+    margin-left: 50px;
+}
+
+    

@@ -1,0 +1,66 @@
+.tax{
+margin-right: 50px;  
+margin-left: 70px;
+margin-top: 50px;
+margin-bottom: 100px;
+/* width: 100vw;
+height: 100vh; */
+display: flex;
+flex-direction: row;
+
+}
+.container1 {
+    width: 40%;
+    margin-top: 60px;
+}
+.headingTax1 {
+color:#2d1d4a;
+}
+.headingTax2 {
+    color:#f47979;
+    margin-bottom: 50px;
+    }
+    .container2 {
+    margin-left: 100px;
+    
+    }
+    .tapTax {
+        width: 180px;
+    }
+    .tapTax:hover {
+        background-color: #e3cecd;
+        border: 2px solid #9b534e;
+        background-image: #e3cecd;
+        transform:scale(0.5, 0.5);
+    }
+    .accuTax {
+        width: 150px;
+        margin-left: 20px;
+    }
+    .accuTax:hover {
+        background-color: #e3cecd;
+        border: 2px solid #9b534e;
+        background-image: #e3cecd;
+        transform:scale(0.5, 0.5);
+    }
+    .child {
+        margin-left: 60px;
+    }
+    .ssrTax {
+        width: 180px;
+    
+    }
+    .ssrTax:hover {
+        background-color: #e3cecd;
+        border: 2px solid #9b534e;
+        background-image: #e3cecd;
+    }
+    .timeTax {
+        width: 150px;
+    }
+    .timeTax:hover {
+        background-color: #e3cecd;
+        border: 2px solid #9b534e;
+        background-image: #e3cecd;
+        transform:scale(0.5, 0.5);
+    }

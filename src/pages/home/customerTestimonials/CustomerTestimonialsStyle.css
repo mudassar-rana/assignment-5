@@ -1,0 +1,116 @@
+.customerHeading {
+    text-align: center;
+    margin-top: 50px;
+    color: #44375e;
+    margin-bottom: 30px;
+    
+}
+.divMain {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: 50px;
+}
+.mainName{
+    width: 220px;
+    height: 370px;
+    border:1px solid #8798b1;
+    border-radius: 5px;
+    margin-top: 50px;
+    
+}
+.imgOne {
+    width: 80px;
+    margin-left: 70px;
+    margin-top: -70px;
+    border-radius: 100px;
+}
+.headingOne {
+    text-align: center;
+    margin-top: 20px;
+}
+.starOne {
+    width: 130px;
+    margin-left: 42px;
+}
+.parahOne {
+    text-align: center;
+    /* width: 100px; */
+    text-align: center;
+    font-size: small;
+    margin-top: 30px;
+}
+.mainName1 {
+    width: 300px;
+    height: 450px;
+    border:1px solid #8798b1;
+    border-radius: 5px;
+}
+.imgtwo {
+    width: 120px;
+    margin-left: 90px;
+    margin-top: -200px;
+    border-radius: 100px;
+    
+}
+.headingTwo {
+    text-align: center;
+    margin-top: 20px;
+}
+.starTwo {
+    width: 150px;
+    margin-left: 70px;
+}
+.parahTwo {
+    text-align: center;
+    /* width: 100px; */
+    text-align: center;
+    font-size:small;
+    margin-top: 20px;
+    padding: 10px;
+}
+.headingRead {
+    text-align: center;
+    /* margin-top: 0px; */
+    color: #f47070;
+}
+.starOne {
+    width: 130px;
+    margin-left: 42px;
+}
+.parahOne {
+    text-align: center;
+    /* width: 100px; */
+    text-align: center;
+    font-size: small;
+    margin-top: 30px;
+}
+.imgthr {
+    width: 80px;
+    margin-left: 70px;
+    margin-top: -70px;
+    border-radius: 100px;
+}
+.ratingMain {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+       margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+.rating {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+       /* margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 120px;
+    margin-bottom: 50px; */
+}
+.img1 {
+    width: 20px;
+}
